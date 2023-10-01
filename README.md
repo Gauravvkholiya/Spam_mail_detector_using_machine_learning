@@ -1,1 +1,2 @@
-# Spam_mail_detector_using_machine_learning
+# Spamifier
+Spam_mail_detector_using_machine_learning
